@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FruitApp</string>
+    <string name="mangoes">It’s not called the king of fruits for nothing! Mangoes help prevent cancer, improve eyesight, and also lower cholesterol levels due to all that fibre. They contain fructose and glucose too, so don’t overdo it obviously.</string>
+    <string name="oranges">Other than being the best mixer for a cocktail, this fruit is packed with high amounts of vitamin C. Due to the fibre in them, they also help with constipation.    </string>
+    <string name="apples">Want to keep the doctor away? Apples are known to be the healthiest fruit. This is because they help reduce risk of diabetes, reduce cholesterol, detox the liver and boost immunity.</string>
+    <string name="Pomegranates">Pomegranates are a punch of nutrition. They are filled with antioxidants, vitamin C, and other anti-inflammatory properties.</string>
+    <string name="Watermelons">Due to it’s high water content, watermelons are a good way to hydrate the body. It helps to keep the body cool too.</string>
+    <string name="Bananas">They have high levels of potassium. This is good for the kidneys and bones. They are also an excellent source of energy.</string>
+    <string name="Papaya">Helps in losing weight. And helps in digestion as well. Papayas, although heaty, give the body a good dose of vitamins and antioxidants.</string>
+    <string name="Guava">Apart from being so delicious, the guava has tons of benefits. Since they are packed with vitamins, it is very good for the eyes and is a good immunity booster.</string>
+    <string name="Strawberries">Strawberries are great immunity boosters and also helps treat arthritis and gout. This is because they are rich in vitamins and antioxidants.</string>
+    <string name="Grapes">Low in calories, these aid in weight loss. Diabetics can eat grapes because even though they’re sweet, they don’t elevate the blood sugar</string>
+    <string name="Apricot"> These small fleshy fruits are closely related to peaches and plums. The skin of an apricot is typically yellow and orange with a splash of red, while the fruit on the inside ranges from yellow to orange. Apricots can be enjoyed fresh or in their dried form.
+Notable source of dietary fiber.
+Outstanding source of vitamin A and vitamin C.
+Provides calcium for healthy bones.</string>
+    <string name="Avocado">Avocados have swept the nation in recent years. These nutrient dense fruits can be consumed by themselves, smashed into guacamole or even used in chocolate desserts. It’s easy to see why people love them — avocados are packed with nutrients!
+Contains high amounts of healthy fats.
+Good source of fiber.
+Rich in protein and potassium.
+</string>
+    <string name="Dragonfruit">This vibrant fruit is known for its red skin and white pulp. This unique fruit can be enjoyed with salads, yogurt or as a standalone snack. Dragonfruit has been called a superfood due to its nutrient content.
+Excellent source of dietary fiber.
+Rich in iron and magnesium.
+Contains prebiotic that are beneficial for gut health. </string>
+    <string name="Fig">These Mediterranean fruits are delicate and are often dried for preservation. Figs are a great addition to pies, salads and soft cheeses. Their sweet flavor and chewy texture make this fruit truly unique.
+Rich in minerals including calcium, magnesium and iron.
+Contain vitamins A and K.
+Good source of soluble fiber</string>
+    <string name="Kiwifruit">The kiwi is a sweet, green fruit filled with black seeds. This juicy fruit is surrounded in a furry skin and provide impressive nutritional content. Kiwifruit is often used in dessert items like tarts or eaten by itself.
+Over 200% of the recommended daily amount of vitamin C.
+Aids digestion due to high fiber and presence of enzymes.
+Contains vitamin K and vitamin E.</string>
+    <string name="Pineapple">
+    The pineapple is covered in a thick, spiky skin. Inside the tough exterior, there is sweet, yellow fruit. This tropical treat is often grilled on skewers with meat and other types of fruit, enjoyed alone and added to desserts.
+Contains over 100% of the recommended daily amount of vitamin C.
+High in manganese.
+Excellent source of vitamin B1 and vitamin B6.</string>
+
+
+
+</resources>
